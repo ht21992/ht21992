@@ -29,7 +29,7 @@
 - [Django Website](https://ht21992.pythonanywhere.com/en/)
 - [Live Paint](https://ht21992.pythonanywhere.com/en/my_projects/26/)
 - [Football Prediction Using Python and Poisson](https://ht21992.pythonanywhere.com/en/my_projects/20/)
-- [Employee Management System ](https://ht21992.pythonanywhere.com/en/my_projects/25/8)
+- [Employee Management System ](https://ht21992.pythonanywhere.com/en/my_projects/25/)
 - [More](https://ht21992.pythonanywhere.com/en/my_projects/)
 <!-- PROJECTS:END -->
 
