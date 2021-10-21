@@ -2,7 +2,7 @@
 
 [![Website](http://www.simpleimageresizer.com/_uploads/photos/48fe6c6e/886191_social-media_512x512_50x50.png)](https://www.linkedin.com/in/hossein-tajfirouz-30910b208/)
 [![Website](http://www.simpleimageresizer.com/_uploads/photos/48fe6c6e/logo_2_40x40.png)](https://ht21992.pythonanywhere.com/en/)
-#### I'm a Python Programmer and Translator !!
+#### I'm a Python Programmer and Localization Specialist !!
 
 - :computer: I like Python programming language
 - 🎸  I like to play guitar :video_game: play video games 🎥 watch movies
