@@ -27,11 +27,11 @@
 ### 👉 Latest Projects
 
 <!-- PROJECTS:START -->
-- [Django Website](https://ht21992.pythonanywhere.com/en/)
-- [Live Paint](https://ht21992.pythonanywhere.com/en/my_projects/26/)
-- [Football Prediction Using Python and Poisson](https://ht21992.pythonanywhere.com/en/my_projects/20/)
-- [Employee Management System ](https://ht21992.pythonanywhere.com/en/my_projects/25/)
-- [More](https://ht21992.pythonanywhere.com/en/my_projects/)
+- [Django Website](https://ht21992.pythonanywhere.com)
+- [Live Paint](https://ht21992.pythonanywhere.com/project/project/14/) 
+- [Football Prediction Using Python and Poisson](https://ht21992.pythonanywhere.com/project/project/19/)
+- [Employee Management System ](ht21992.pythonanywhere.com/project/project/15/)
+- [More](https://ht21992.pythonanywhere.com/project/)
 <!-- PROJECTS:END -->
 
 ---
@@ -39,14 +39,14 @@
 ### :blue_book: Latest Blog Posts
 
 <!-- BLOG-LIST:START -->
-- [Why Python](https://ht21992.pythonanywhere.com/en/blog/21/)
-- [IDE and Text Editor](https://ht21992.pythonanywhere.com/en/blog/19/)
-- [Python 3.9](https://ht21992.pythonanywhere.com/en/blog/22/)
-- [More](https://ht21992.pythonanywhere.com/en/blog/)
+- [Why Python](https://ht21992.pythonanywhere.com/blog/blog/7/)
+- [IDE and Text Editor](https://ht21992.pythonanywhere.com/blog/blog/4/)
+- [Python 3.9](https://ht21992.pythonanywhere.com/blog/blog/6/)
+- [More](https://ht21992.pythonanywhere.com/blog/)
 <!-- BLOG-LIST:END -->
 
 
-[website]: https://ht21992.pythonanywhere.com/en/
+[website]: https://ht21992.pythonanywhere.com
 [python]: https://www.python.org/
 [html]: https://html.com/
 [django]: https://www.djangoproject.com/
