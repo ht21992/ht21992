@@ -1,7 +1,7 @@
 ### Hi there, I'm Hossein - [ht21992][website] 👋
 
 [![Website](https://i.ibb.co/D4jQvjh/Webp-net-resizeimage.png)](https://www.linkedin.com/in/hossein-tajfirouz-30910b208/)
-[![Website](https://i.ibb.co/J2qW2fc/Webp-net-resizeimage-1.png)](https://ht21992.pythonanywhere.com/en/)
+[![Website](https://i.ibb.co/J2qW2fc/Webp-net-resizeimage-1.png)](https://ht21992.pythonanywhere.com)
 #### I'm a Python Programmer and Localization Specialist !!
 
 - :computer: I like Python programming language
